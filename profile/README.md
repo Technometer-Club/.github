@@ -1,5 +1,7 @@
 # 🎉 Welcome to the Technometer Club! 
 
+![Club Banner](path/to/your/banner-image.png)
+
 The Technometer Club is dedicated to fostering creativity, collaboration, and innovation in web development and technology. We organize various competitions, workshops, and events to enhance the skills of our members and promote teamwork.
 
 ## 🌟 Our Mission
