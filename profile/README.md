@@ -1,6 +1,6 @@
 # 🎉 Welcome to the Technometer Club! 
 
-![Club Banner](path/to/your/banner-image.png)
+<img width="1920" height="800" alt="bannert" src="https://github.com/user-attachments/assets/99aabde1-ded1-4270-85e5-717ac2ba41e8" />
 
 The Technometer Club is dedicated to fostering creativity, collaboration, and innovation in web development and technology. We organize various competitions, workshops, and events to enhance the skills of our members and promote teamwork.
 
