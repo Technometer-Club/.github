@@ -32,4 +32,6 @@ For inquiries, suggestions, or collaborations, feel free to reach out:
 - **Email**: contact@technometerclub.org
 - **Twitter**: [@TechnometerClub](https://twitter.com/TechnometerClub)
 
-Thank you for visiting our GitHub organization! We look forward to seeing you in our events and competitions!
+<img width="1920" height="300" alt="footer" src="https://github.com/user-attachments/assets/1c0f83fc-c3b9-4122-8947-434d6dd97b0e" />
+
+
